@@ -5,6 +5,7 @@ import ReactDOM from 'react-dom';
 import CSSTransitionGroup from 'react-addons-css-transition-group';
 
 import Hello from './components/Hello';
+import ReactSidebar from './components/ReactSidebar';
 
 const App = React.createClass({
   getInitialState() {
